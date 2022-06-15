@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ## Overview
-Purpose of this project was to exctract, transform, and load data using SQL. 
+Purpose of this project was to exctract, transform, and load data into SQL. 
 
 ## Summary
 Movie data was gathered from two different sources, Wikipedia and Kaggle. Overall the data needed to be cleaned to provide a dataset that was able to be loaded in to SQL. Joining the two datasets resulted in duplicate and inconsistent data throuhgout the movies dataframe created. Analysis was done to clean all of the data prior to loading the cleaned data set into SQL.
